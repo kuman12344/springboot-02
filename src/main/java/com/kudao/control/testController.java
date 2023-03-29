@@ -9,7 +9,7 @@ public class testController {
     @GetMapping("/test")
     public Object test(){
 
-        return "github 测试成功!";
+        return "github 测试成功完美!";
 
     }
 
